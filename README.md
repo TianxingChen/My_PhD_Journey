@@ -1,1 +1,1 @@
-# My_PhD_Journey
+<h1 style="align: center">My PhD Journey</h1>
