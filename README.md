@@ -1,1 +1,1 @@
-<h1 align="center">My PhD Journey</h1>
+<h1 align="center">PhD Mindscape</h1>
